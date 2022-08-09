@@ -11,15 +11,15 @@ pkg install git
 python3 -m pip install requests
 git clone https://github.com/Xenzi-XN1/Tiktok-Download
 cd Tiktok-Download
-python temp.py
+python Tik.py
 ```
 
 # Apa saja fungsinya
 + Download Video Tiktok
 + Kualitas [HD]
 
-# Mau Melihat Hasilnya?
-![img]()
+# Hasil Dari Tools Tiktok-Download
+![img](https://github.com/Xenzi-XN1/Tiktok-Download/blob/main/Screenshot_20220809_215528.jpg)
 
 # Thanks to
 ```
